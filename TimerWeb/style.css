@@ -65,7 +65,7 @@ body.game-over {
     100% { background-color: #000; }
 }
 
-@media (max-width: 480px) {
+/* @media (max-width: 480px) {
 
     body {
         align-items: center;
@@ -91,4 +91,4 @@ body.game-over {
     .container {
         margin-top: 50px;
     }
-}
+} */
